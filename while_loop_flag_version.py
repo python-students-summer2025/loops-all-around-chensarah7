@@ -20,7 +20,7 @@ def get_starting_number():
     user = int(user_str)
     return user
 
-def sing(initial):
+def sing(initial:int):
     '''
     takes argument specifying how many bottles to start with.\n
     outputs lyrics to the song, starting from passed num of bottles.
