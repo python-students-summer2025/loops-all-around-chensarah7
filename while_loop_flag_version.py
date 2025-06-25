@@ -2,7 +2,6 @@
 using while loop controlled by flag
 '''
 
-#
 def get_starting_number():
     '''
     ask for input until user response if any integer 1 or greater.\n
